@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95f48fec-9795-4aeb-89bf-0c2c6bfe0a03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/message101.php" beforeDir="false" afterPath="$PROJECT_DIR$/message101.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/episode7/Math.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/message101.php">
+        <entry file="file://$PROJECT_DIR$/episode7/Math.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#7#23#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -38,16 +35,7 @@
         <option value="$PROJECT_DIR$/src/Staff.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/message101.php" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/php-oop.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/episode7/Math.php" />
       </list>
     </option>
   </component>
@@ -69,6 +57,11 @@
             <path>
               <item name="php-oop" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php-oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-oop" type="462c0819:PsiDirectoryNode" />
+              <item name="episode7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,12 +104,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556124964208</updated>
-      <workItem from="1556124965449" duration="943000" />
+      <workItem from="1556124965449" duration="1347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="943000" />
+    <option name="totallyTimeSpent" value="1347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="39" width="1351" height="781" extended-state="0" />
@@ -201,11 +194,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/message101.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="165">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#7#23#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/episode7/Math.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
