@@ -1,12 +1,14 @@
 <?php
 
-require 'vendor/autoload.php';
+use Acme\Person;
+use Acme\staff;
+use Acme\Business;
 
-$suchi = new Acme\Person('Thouhedul Islam');
+$suchi = new Person('Thouhedul Islam');
 
-$staff = new Acme\Staff;
+$staff = new Staff;
 
-$sclrship = new Acme\Business($staff);
+$sclrship = new Business($staff);
 
 $sclrship->hire($suchi);
 
